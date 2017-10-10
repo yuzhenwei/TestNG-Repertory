@@ -46,6 +46,10 @@ public class InterfaceTestNG {
 	    public void saveMethod5() {  
 	        System.err.println("this is saveMethod5......");  
 	    } 
+	    @Test  
+	    public void saveMethod6() {  
+	        System.err.println("this is saveMethod6......");  
+	    } 
 	  
 	}  
 
